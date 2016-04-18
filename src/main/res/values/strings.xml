@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Travel Note</string>
+    <string name="title_activity_my_map">Map</string>
+
+    <string name="title_activity_app_lock">AppLock</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="number_one">1</string>
+    <string name="number_two">2</string>
+    <string name="number_three">3</string>
+    <string name="number_four">4</string>
+    <string name="number_five">5</string>
+    <string name="number_six">6</string>
+    <string name="number_seven">7</string>
+    <string name="number_eight">8</string>
+    <string name="number_nine">9</string>
+    <string name="number_zero">0</string>
+    <string name="anti_theft_keyboard_clear">Clear</string>
+    <string name="app_name_for_anti_theft">Clear</string>
+    <string name="go">GO</string>
+</resources>

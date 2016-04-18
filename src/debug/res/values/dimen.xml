@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="anti_theft_t9_key_paddingTop">5dp</dimen>
+    <dimen name="anti_theft_t9_key_paddingBottom">5dp</dimen>
+</resources>
